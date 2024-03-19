@@ -3,7 +3,6 @@
     "esbenp.prettier-vscode",
     "bradlc.vscode-tailwindcss",
     "antfu.iconify",
-    "vue.volar",
     "vue.vscode-typescript-vue-plugin"
   ]
 }
